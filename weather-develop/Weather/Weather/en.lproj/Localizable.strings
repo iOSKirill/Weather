@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Kirill Manuilenko on 29.03.23.
+  
+*/
+
+"weatherViewController.Precipitations" = "Precipitations";
+"weatherViewController.Max" = "Max";
+"weatherViewController.Min" = "Min";
+"weatherViewController.SearchByCity" = "Search by city";
+"weatherViewController.CityName" = "City name";
+"weatherViewController.EnterTheNameOfTheCity" = "Enter the name of the city";
+"weatherViewController.Ok" = "Ok";
+"weatherViewController.Cancel" = "Cancel";
+"weatherViewController.TheWeatherDoesNotExist!"  = "The weather does not exist!";
+
+"dailyHeaderTableViewCell.NextForecast" = "Next Forecast";
+"dailyInfoTableViewCell.m/s" = "m/s";
+
+"hourlyHeaderTableViewCell.Today" = "Today";
+
+"infoRequestTableViewCell.Humidity" = "Humidity";
+
+"mainTabBarController.Weather" = "Weather";
+"mainTabBarController.Map" = "Map";
+"mainTabBarController.Info" = "Info";
+

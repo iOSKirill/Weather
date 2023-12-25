@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Kirill Manuilenko on 29.03.23.
+  
+*/
+
+"weatherViewController.Precipitations" = "Осадки";
+"weatherViewController.Max" = "Макс";
+"weatherViewController.Min" = "Мин";
+"weatherViewController.SearchByCity" = "Поиск по городу";
+"weatherViewController.CityName" = "Название города";
+"weatherViewController.EnterTheNameOfTheCity" = "Введите название города";
+"weatherViewController.Ok" = "Ок";
+"weatherViewController.Cancel" = "Отменить";
+"weatherViewController.TheWeatherDoesNotExist!"  = "Погоды не существует!";
+
+"dailyHeaderTableViewCell.NextForecast" = "Следующий прогноз";
+"dailyInfoTableViewCell.m/s" = "м/с";
+
+"hourlyHeaderTableViewCell.Today" = "Сегодня";
+
+"infoRequestTableViewCell.Humidity" = "Влажность";
+
+"mainTabBarController.Weather" = "Погода";
+"mainTabBarController.Map" = "Карта";
+"mainTabBarController.Info" = "История";
